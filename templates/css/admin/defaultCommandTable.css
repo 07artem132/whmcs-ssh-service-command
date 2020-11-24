@@ -1,0 +1,20 @@
+div#tableCommandList_length {
+    float: left;
+}
+
+div#tableCommandList_paginate {
+    float: right;
+}
+
+div#tableCommandList_filter {
+    float: right;
+}
+
+div#tableCommandList_info {
+    float: left;
+}
+
+#tableCommandList td:hover {
+    cursor: pointer;
+}
+

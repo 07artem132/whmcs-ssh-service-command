@@ -1,0 +1,20 @@
+div#tableServiceList_length {
+    float: left;
+}
+
+div#tableServiceList_paginate {
+    float: right;
+}
+
+div#tableServiceList_filter {
+    float: right;
+}
+
+div#tableServiceList_info {
+    float: left;
+}
+
+#tableServiceList td:hover {
+    cursor: pointer;
+}
+
